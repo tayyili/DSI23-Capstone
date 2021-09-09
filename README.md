@@ -84,6 +84,7 @@ With this in mind, we paid special attention to get as high a Recall score as po
 
 Above is a table showing a summary of the scores of all the different models. 
 Comparing the metrics, we found the **XGBoost Classifier** model to be the best performer for heart failure prediction with 82% F1 score, 84% Recall, 80% Precision, 86% Train Accuracy and 83% Test Accuracy.
+<img src="./plots/xgboost_confusion.png" width="600">
 
 
 ## Conclusions/Recommendations
