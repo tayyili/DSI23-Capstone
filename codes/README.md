@@ -1,7 +1,7 @@
 # Codes Sequence
 
 ### **Do read the codes in the order below, so as to better understand the codes and thought process.**
-<br><br>
+<br>
 
 **1) Capstone-Part1-ProbStatement_Background_EDA.ipynb**
 
